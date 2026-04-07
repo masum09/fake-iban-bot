@@ -15,7 +15,7 @@
 ## 🚀 ইনস্টলেশন
 
 ```bash
-git clone https://github.com/your-username/telegram-iban-bot.git
+https://github.com/masum09/fake-iban-bot.git
 cd telegram-iban-bot
 pip install -r requirements.txt
 cp .env.example .env
